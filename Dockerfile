@@ -1,4 +1,4 @@
-FROM ubuntu:14.04.3
+FROM ubuntu:15.04
 MAINTAINER levkov
 ENV DEBIAN_FRONTEND noninteractive
 RUN locale-gen en_US.UTF-8
